@@ -1,8 +1,0 @@
-# Backup files
-*.backup
-
-# macOS
-.DS_Store
-
-# Reference materials (optional - remove if you want to keep them in the repo)
-theme-refrence/
