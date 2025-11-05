@@ -1,0 +1,7 @@
+id = "nightingale"
+name = "Nightingale"
+version = "1.0.0"
+schema_version = 1
+authors = ["xeind"]
+description = "Dark (Nightingale) and Light (Lightingale) themes for Zed"
+repository = "https://github.com/xeind/nightingale-zed"
