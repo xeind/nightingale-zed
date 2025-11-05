@@ -1,10 +1,8 @@
 # Nightingale – Zed Theme
 
-A dark and light theme for Zed, ported from the [Neovim Nightingale theme](https://github.com/sho-87/nightingale.nvim).
+A dark and light theme for Zed, ported from the [Neovim Nightingale theme](https://github.com/xeind/nightingale.nvim).
 
 Nightingale provides two variants:
-- **Nightingale** – A dark theme with a `#202020` background
-- **Lightingale** – A light theme with a `#dfdfdf` background
 
 ## Features
 
@@ -17,10 +15,11 @@ Nightingale provides two variants:
 
 1. Open Zed
 2. Go to Extensions (Cmd+Shift+X)
-3. Search for "Nightingale"
+3. Search for "Nightingale Theme"
 4. Click Install
 
 Alternatively, you can install it from the command line:
+
 ```bash
 zed --install-extension nightingale
 ```
@@ -28,13 +27,10 @@ zed --install-extension nightingale
 ## Usage
 
 After installation:
+
 1. Open the Command Palette (Cmd+Shift+P)
 2. Search for "theme selector: toggle"
 3. Select either "Nightingale" or "Lightingale"
-
-## Credits
-
-Original Neovim theme by [sho-87](https://github.com/sho-87/nightingale.nvim)
 
 ## License
 
