@@ -5,3 +5,4 @@ schema_version = 1
 authors = ["xeind"]
 description = "Dark (Nightingale) and Light (Lightingale) themes with warm contrast"
 repository = "https://github.com/xeind/nightingale-zed"
+license = "MIT"
