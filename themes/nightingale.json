@@ -314,7 +314,7 @@
           },
           "string.special.url": {
             "color": "#7ebcfd",
-            "font_style": "underline",
+            "font_style": "italic",
             "font_weight": null
           },
           "character": {
@@ -684,7 +684,7 @@
           },
           "link_uri": {
             "color": "#7ebcfd",
-            "font_style": "underline",
+            "font_style": "italic",
             "font_weight": null
           },
           "predictive": {
@@ -1011,7 +1011,7 @@
           },
           "string.special.url": {
             "color": "#0066cc",
-            "font_style": "underline",
+            "font_style": "italic",
             "font_weight": null
           },
           "character": {
@@ -1381,7 +1381,7 @@
           },
           "link_uri": {
             "color": "#0066cc",
-            "font_style": "underline",
+            "font_style": "italic",
             "font_weight": null
           },
           "predictive": {
