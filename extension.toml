@@ -1,8 +1,8 @@
 id = "nightingale"
 name = "Nightingale Themes"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["xeind"]
-description = "Dark (Nightingale) and Light (Lightingale) themes with warm contrast"
+description = "Nightingale and Lightingale themes with comfortable warm contrast"
 repository = "https://github.com/xeind/nightingale-zed"
 license = "MIT"

@@ -16,6 +16,15 @@
           "#f5a284",
           "#ff5353"
         ],
+        "vim.mode.text": "#202020",
+        "vim.normal.background": "#f5a284",
+        "vim.helix_normal.background": "#f5a284",
+        "vim.visual.background": "#85a8da",
+        "vim.helix_select.background": "#85a8da",
+        "vim.insert.background": "#98BB6C",
+        "vim.visual_line.background": "#7cd0bf",
+        "vim.visual_block.background": "#a584c0",
+        "vim.replace.background": "#ff5353",
         "background.appearance": "opaque",
         "border": "#585858",
         "border.variant": "#505050",
@@ -65,9 +74,14 @@
         "pane_group.border": "#585858",
         "scrollbar.thumb.background": "#505050",
         "scrollbar.thumb.hover_background": "#585858",
+        "scrollbar.thumb.active_background": "#606060",
         "scrollbar.thumb.border": "#585858",
         "scrollbar.track.background": null,
         "scrollbar.track.border": "#303030",
+        "minimap.thumb.background": "#a584c033",
+        "minimap.thumb.hover_background": "#a584c066",
+        "minimap.thumb.active_background": "#a584c099",
+        "minimap.thumb.border": null,
         "editor.foreground": "#ffffff",
         "editor.background": "#202020",
         "editor.gutter.background": "#202020",
@@ -159,42 +173,42 @@
         "players": [
           {
             "cursor": "#fdfdfd",
-            "selection": "#fdfdfd40",
+            "selection": "#44444480",
             "background": "#fdfdfd"
           },
           {
             "cursor": "#7cd0bf",
-            "selection": "#7cd0bf40",
+            "selection": "#44444480",
             "background": "#7cd0bf"
           },
           {
             "cursor": "#a584c0",
-            "selection": "#a584c040",
+            "selection": "#44444480",
             "background": "#a584c0"
           },
           {
             "cursor": "#98BB6C",
-            "selection": "#98BB6C40",
+            "selection": "#44444480",
             "background": "#98BB6C"
           },
           {
             "cursor": "#e1e1a7",
-            "selection": "#e1e1a740",
+            "selection": "#44444480",
             "background": "#e1e1a7"
           },
           {
             "cursor": "#f5a284",
-            "selection": "#f5a28440",
+            "selection": "#44444480",
             "background": "#f5a284"
           },
           {
             "cursor": "#ff5353",
-            "selection": "#ff535340",
+            "selection": "#44444480",
             "background": "#ff5353"
           },
           {
             "cursor": "#E6C384",
-            "selection": "#E6C38440",
+            "selection": "#44444480",
             "background": "#E6C384"
           }
         ],
@@ -208,6 +222,10 @@
         "version_control.conflict": "#FF9E3B",
         "version_control.conflict_background": "#FF9E3B26",
         "version_control.ignored": "#727169",
+        "version_control.conflict_marker.ours": "#76946A33",
+        "version_control.conflict_marker.theirs": "#5690ac33",
+        "debugger.accent": "#E82424",
+        "editor.debugger_active_line.background": "#FF9E3B12",
         "syntax": {
           "variable": {
             "color": "#e8e4ca",
@@ -695,6 +713,15 @@
           "#c06840",
           "#c82020"
         ],
+        "vim.mode.text": "#dfdfdf",
+        "vim.normal.background": "#c06840",
+        "vim.helix_normal.background": "#c06840",
+        "vim.visual.background": "#4a7bb8",
+        "vim.helix_select.background": "#4a7bb8",
+        "vim.insert.background": "#5a8840",
+        "vim.visual_line.background": "#2a8070",
+        "vim.visual_block.background": "#7a5a98",
+        "vim.replace.background": "#c82020",
         "background.appearance": "opaque",
         "border": "#a7a7a7",
         "border.variant": "#a8a8a8",
@@ -744,9 +771,14 @@
         "pane_group.border": "#a7a7a7",
         "scrollbar.thumb.background": "#a8a8a8",
         "scrollbar.thumb.hover_background": "#a7a7a7",
+        "scrollbar.thumb.active_background": "#969696",
         "scrollbar.thumb.border": "#a7a7a7",
         "scrollbar.track.background": null,
         "scrollbar.track.border": "#e8e8e8",
+        "minimap.thumb.background": "#7a5a9833",
+        "minimap.thumb.hover_background": "#7a5a9866",
+        "minimap.thumb.active_background": "#7a5a9899",
+        "minimap.thumb.border": null,
         "editor.foreground": "#0a0a0a",
         "editor.background": "#dfdfdf",
         "editor.gutter.background": "#dfdfdf",
@@ -838,42 +870,42 @@
         "players": [
           {
             "cursor": "#0a0a0a",
-            "selection": "#0a0a0a40",
+            "selection": "#d8d8d880",
             "background": "#0a0a0a"
           },
           {
             "cursor": "#2a8070",
-            "selection": "#2a807040",
+            "selection": "#d8d8d880",
             "background": "#2a8070"
           },
           {
             "cursor": "#7a5a98",
-            "selection": "#7a5a9840",
+            "selection": "#d8d8d880",
             "background": "#7a5a98"
           },
           {
             "cursor": "#5a8840",
-            "selection": "#5a884040",
+            "selection": "#d8d8d880",
             "background": "#5a8840"
           },
           {
             "cursor": "#8a8a40",
-            "selection": "#8a8a4040",
+            "selection": "#d8d8d880",
             "background": "#8a8a40"
           },
           {
             "cursor": "#c06840",
-            "selection": "#c0684040",
+            "selection": "#d8d8d880",
             "background": "#c06840"
           },
           {
             "cursor": "#c82020",
-            "selection": "#c8202040",
+            "selection": "#d8d8d880",
             "background": "#c82020"
           },
           {
             "cursor": "#b09050",
-            "selection": "#b0905040",
+            "selection": "#d8d8d880",
             "background": "#b09050"
           }
         ],
@@ -887,6 +919,10 @@
         "version_control.conflict": "#d67b00",
         "version_control.conflict_background": "#d67b0026",
         "version_control.ignored": "#8a8a7a",
+        "version_control.conflict_marker.ours": "#4a6a4033",
+        "version_control.conflict_marker.theirs": "#3d709033",
+        "debugger.accent": "#c00000",
+        "editor.debugger_active_line.background": "#d67b0012",
         "syntax": {
           "variable": {
             "color": "#1a1408",
