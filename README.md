@@ -1,10 +1,9 @@
-<a href="https://zed.dev/extensions/nightingale" align="right">
-  <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" align="right">
-</a>
-
 <h1>
   <img src="assets/logo.svg" height="48" alt="" align="middle">
   Nightingale
+  <a href="https://zed.dev/extensions/nightingale">
+    <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" align="right">
+  </a>
 </h1>
 
 Ported from [nightingale.nvim](https://github.com/xeind/nightingale.nvim).
