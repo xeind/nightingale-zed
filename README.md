@@ -1,21 +1,22 @@
-# Nightingale – Zed Theme
+<p align="center">
+  <img src="assets/logo.svg" width="120" alt="Nightingale">
+</p>
 
-A dark theme for Zed, ported from the [Neovim Nightingale theme](https://github.com/xeind/nightingale.nvim).
+# Nightingale
 
-## Installation
+[![Zed extension badge](https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast.)](https://zed.dev/extensions/nightingale)
 
-1. Open Zed
-2. Go to Extensions (Cmd+Shift+X)
-3. Search for "Nightingale"
-4. Click Install
+Night theme with comfortable warm contrast. Ported from [nightingale.nvim](https://github.com/xeind/nightingale.nvim).
 
-## Usage
+![Nightingale in Zed](assets/preview.png)
 
-After installation:
+## Install
 
-1. Open the Command Palette (Cmd+Shift+P)
-2. Search for "theme selector: toggle"
-3. Select "Nightingale"
+Open Zed → Extensions (`Cmd+Shift+X`) → search **Nightingale** → Install.
+
+## Use
+
+Command Palette (`Cmd+Shift+P`) → `theme selector: toggle` → **Nightingale**.
 
 ## License
 
