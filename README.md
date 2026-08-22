@@ -3,7 +3,7 @@
 </a>
 
 <h1>
-  <img src="assets/logo.svg" height="64" alt="" align="top">
+  <img src="assets/logo.svg" height="48" alt="" align="middle">
   Nightingale
 </h1>
 
