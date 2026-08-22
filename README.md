@@ -1,9 +1,9 @@
 <a href="https://zed.dev/extensions/nightingale" align="right">
-  <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" height="48" align="right">
+  <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" align="right">
 </a>
 
 <h1>
-  <img src="assets/logo.svg" height="40" alt="" align="top">
+  <img src="assets/logo.svg" height="64" alt="" align="top">
   Nightingale
 </h1>
 
