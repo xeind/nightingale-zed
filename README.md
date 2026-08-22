@@ -1,12 +1,11 @@
-<p align="center">
-  <img src="assets/logo.svg" width="120" alt="Nightingale">
-</p>
-
-# Nightingale
+<h1>
+  <img src="assets/logo.svg" height="40" alt="" align="top">
+  Nightingale
+</h1>
 
 [![Zed extension badge](https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast.)](https://zed.dev/extensions/nightingale)
 
-Night theme with comfortable warm contrast. Ported from [nightingale.nvim](https://github.com/xeind/nightingale.nvim).
+Ported from [nightingale.nvim](https://github.com/xeind/nightingale.nvim).
 
 ![Nightingale in Zed](assets/preview.png)
 
