@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" height="48" alt="" align="middle">
   Nightingale
   <a href="https://zed.dev/extensions/nightingale">
-    <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" align="right">
+    <img src="https://zedbadge.dev/extension/nightingale.svg?raw=1&desc=Night+theme+with+comfortable+warm+contrast." alt="Zed extension badge" height="62" align="right">
   </a>
 </h1>
 
